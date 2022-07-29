@@ -48,3 +48,6 @@ See [Contributing Guidelines](https://github.com/MustafaSabahy/Tiktok-iOS/blob/m
     limitations under the License.
 
 ```
+
+
+## *Made with love ❤️ by [Mustafa Sabahy](https://github.com/mustafasabahy)*
